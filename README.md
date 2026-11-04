@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Integrante 1: Guilherme Duarte Araujo
-- Turma: IA B
+- Turma: 1 IA B
 
 ## O que está implementado
 - Jogo de terminal em Python com apelido obrigatório, menu e até 9 perguntas sem repetição.
