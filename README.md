@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Integrante 1: Guilherme Duarte Araujo
-- Turma: 1 IA B
+- Turma: IA B
 
 ## O que está implementado
 - Jogo de terminal em Python com apelido obrigatório, menu e até 9 perguntas sem repetição.
@@ -20,7 +20,7 @@
 3. Confira se foram criadas 15 perguntas (5 por dificuldade).
 4. Revise perguntas e gabaritos antes da entrega.
 
-## 2. Executar o jogo
+## 2. Executar o jogo   
 ```bash
 python -m venv .venv
 # Windows:
@@ -51,9 +51,14 @@ python jogo.py
 - `prompts.md`: registro inicial dos prompts; acrescentar todos os prompts reais usados durante o projeto.
 - `testes.md`: roteiro de validação.
 
+## Links do projeto
+
+Repositório GitHub: https://github.com/guilhermeduartex2010-cpu/Show_do_Milhao_Projeto
+
+Site publicado (GitHub Pages): https://guilhermeduartex2010-cpu.github.io/Show_do_Milhao_Projeto/
+
 ## Pendências antes da entrega
-- Preencher integrantes e turma.
-- Configurar o Supabase e testar conexão real.
-- Publicar no GitHub Pages e preencher os links.
+- Preencher os integrantes e a turma.
+- Configurar o Supabase e testar a conexão real.
 - Realizar e registrar os testes; capturar evidências reais.
 - Atualizar `prompts.md` com todos os prompts completos, datas, responsáveis, ferramenta/modelo, uso e testes.
