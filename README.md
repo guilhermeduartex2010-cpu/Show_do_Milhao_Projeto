@@ -58,7 +58,6 @@ Repositório GitHub: https://github.com/guilhermeduartex2010-cpu/Show_do_Milhao_
 Site publicado (GitHub Pages): https://guilhermeduartex2010-cpu.github.io/Show_do_Milhao_Projeto/
 
 ## Pendências antes da entrega
-- Preencher os integrantes e a turma.
 - Configurar o Supabase e testar a conexão real.
 - Realizar e registrar os testes; capturar evidências reais.
 - Atualizar `prompts.md` com todos os prompts completos, datas, responsáveis, ferramenta/modelo, uso e testes.
