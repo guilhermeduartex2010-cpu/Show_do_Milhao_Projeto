@@ -1,9 +1,8 @@
 # Projeto Show do Milhão — Python + Supabase + Ranking Web
 
 ## Integrantes
-- Integrante 1: preencher nome completo
-- Integrante 2: preencher nome completo
-- Turma: preencher
+- Integrante 1: Guilherme Duarte Araujo
+- Turma: 1 IA B
 
 ## O que está implementado
 - Jogo de terminal em Python com apelido obrigatório, menu e até 9 perguntas sem repetição.
