@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Ranking — Show do Milhão</title><link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="container">
+    <header><p class="eyebrow">RANKING OFICIAL</p><h1>Show do Milhão</h1><p>Confira os melhores resultados de cada jogo.</p></header>
+    <section class="controls">
+      <label for="jogo">Selecionar jogo</label>
+      <select id="jogo"><option value="">Carregando jogos...</option></select>
+      <button id="atualizar">Atualizar ranking</button>
+    </section>
+    <p id="status" role="status">Conectando ao banco de dados...</p>
+    <div class="table-wrap"><table>
+      <thead><tr><th>Posição</th><th>Jogo</th><th>Apelido</th><th>Prêmio</th><th>Tempo</th><th>Data</th></tr></thead>
+      <tbody id="ranking"></tbody>
+    </table></div>
+    <footer>Valores fictícios para fins educativos.</footer>
+  </main>
+  <script src="config.js"></script><script src="app.js"></script>
+</body></html>
